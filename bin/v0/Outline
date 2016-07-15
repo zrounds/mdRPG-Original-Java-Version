@@ -1,0 +1,12 @@
+Architecture Outline 
+
+mdRPG.java [main method that runs the game; brings up the JFrame and whatever else this level ends up needing]
+	|
+	|
+	|______Player.java []
+	|
+	|______Options.java []
+	|
+	|______DialogueSet.java [Holds a passable array list with passList(); also can print the list with printList()]
+	|
+	|______
